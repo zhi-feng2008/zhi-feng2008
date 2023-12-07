@@ -1,4 +1,4 @@
-![ZhiFeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhi-feng2008s&show_icons=true&theme=radical)
+![ZhiFeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhi-feng2008&show_icons=true&theme=radical)
 <!--
 **zhi-feng2008/zhi-feng2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
