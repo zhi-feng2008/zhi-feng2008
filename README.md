@@ -1,5 +1,8 @@
-<div style="display: flex; flex-direction: row;">
+<div style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api?username=zhi-feng2008&show_icons=true&theme=tokyonight" style="width: 50%;">
+</div>
+
+<div style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhi-feng2008&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" style="width: 50%;">
 </div>
 
