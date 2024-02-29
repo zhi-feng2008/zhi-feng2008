@@ -1,6 +1,7 @@
-![ZhiFeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhi-feng2008&show_icons=true&theme=tokyonight)
-
-![ZhiFeng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhi-feng2008&layout=compact&hide_border=true&langs_count=10&theme=tokyonight)
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github-readme-stats.vercel.app/api?username=zhi-feng2008&show_icons=true&theme=tokyonight" style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhi-feng2008&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" style="width: 50%;">
+</div>
 
 ![ZhiFeng's github streak](https://github-readme-streak-stats.herokuapp.com/?user=zhi-feng2008&layout=compact&hide_border=true&langs_count=10&theme=tokyonight)
 <!--
