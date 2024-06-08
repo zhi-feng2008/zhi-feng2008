@@ -1,4 +1,4 @@
-# 你好吖
+# 你好
 
 ![ZhiFeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhi-feng2008&show_icons=true&theme=tokyonight)
 
