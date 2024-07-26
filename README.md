@@ -3,26 +3,14 @@
  <p align="center">欢迎给我的项目一个 Star !</p>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
-  </a>
-  <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">      
-   <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-  </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
-    </a>
-  <br />
-  <br />
+ <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+ <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+ <img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
+ <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+ <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+ <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+ <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+ <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
 
