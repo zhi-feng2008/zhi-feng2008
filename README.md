@@ -1,6 +1,6 @@
 # 你好
 
-![ZhiFeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhi-feng2008&show_icons=true&theme=tokyonigh&count_private=true)
+![ZhiFeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhi-feng2008&show_icons=true&count_private=true&theme=tokyonigh)
 
 ![ZhiFeng's github streak](https://github-readme-streak-stats.herokuapp.com/?user=zhi-feng2008&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&count_private=true)
 
