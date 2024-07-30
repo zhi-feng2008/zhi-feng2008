@@ -3,14 +3,7 @@
  <p align="center">欢迎给我的项目一个 Star !</p>
 </p>
 <p align="center">
- <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
- <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
- <img src="https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet"/>
- <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
- <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
- <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
- <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
- <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+ <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,java,vue,rider,idea,visualstudio,pr,ps,unreal"/>
 </p>
 
 
