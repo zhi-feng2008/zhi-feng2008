@@ -5,7 +5,7 @@
 <p align="center">
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
- <img src="https://img.shields.io/badge/-dotnet-black?style=flat-square&logo=dotnet"/>
+ <img src="https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet"/>
  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
