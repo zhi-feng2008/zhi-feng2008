@@ -1,5 +1,8 @@
 <p align="center">
- <h2 align="center">✨Hello</h2>
+ <h2 align="center">✨Hello 你好</h2>
+ <p align="center">A student from China who loves to tinker.</p>
+ <p align="center">一名喜欢瞎折腾的学生.</p>
+ <p align="center">Welcome to give my project a Star!</p>
  <p align="center">欢迎给我的项目一个 Star !</p>
 </p>
 <p align="center">
